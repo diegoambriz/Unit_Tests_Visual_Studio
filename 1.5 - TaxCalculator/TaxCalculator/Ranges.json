@@ -1,0 +1,26 @@
+﻿[
+    {
+        "inclusiveMinValue": "0",
+        "inclusiveMaxValue": "12449",
+        "percentage": "19"
+    },
+    {
+        "inclusiveMinValue": "12450",
+        "inclusiveMaxValue": "20199",
+        "percentage": "24"
+    },
+    {
+        "inclusiveMinValue": "20200",
+        "inclusiveMaxValue": "35199",
+        "percentage": "30"
+    },
+    {
+        "inclusiveMinValue": "35200",
+        "inclusiveMaxValue": "59999",
+        "percentage": "37"
+    },
+    {
+        "inclusiveMinValue": "60000",
+        "percentage": "45"
+    }
+]
